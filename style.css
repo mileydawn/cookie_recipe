@@ -1,0 +1,101 @@
+
+body{
+	background-color: white;
+	font-family:'Roboto', sans-serif;
+
+}
+
+h2 {
+	font-size: 30px;
+	font-weight: 700;
+	
+}
+
+span {
+	font-weight: 100;
+	position: relative;
+	margin: 0 auto;
+}
+
+p{
+	font-weight: 100;
+	line-height: 25px;
+}
+ul {
+	line-height: 2.0;
+}
+li{
+	font-weight: 100;
+	line-height: 2.0;
+}
+
+
+.heading {
+	text-align: center;
+	background-color: #C7AF97;
+	padding: 100px;
+	color: white;
+	font-size: 36;
+	font-weight: 900;
+	position: relative;
+	margin: 0 auto;
+}
+
+.subh1 {
+	color: white;
+	font-size: 20px;
+	font-weight: 100;
+}
+
+img {
+	width: 700px;
+}
+
+//*
+.block2 {
+	color: #838383;
+	padding: 100px;
+	background-image: url(chips.jpg);
+	background-size: cover;
+	float: right;
+	background-color: #E7E7E7;
+	position: relative;
+	margin: 0 auto;
+}*/
+
+.block2 {
+	text-align: center;
+	background-color: #C7AF97;
+	padding: 100px;
+	color: white;
+	font-size: 36;
+	font-weight: 900;
+	position: relative;
+	margin: 0 auto;
+}
+
+.block3 {
+	color: white;
+	padding: 100px;
+	background-image: url(cookies3.png);
+	background-size: cover;
+	background-color: #83AA72;
+	position: relative;
+	margin: 0 auto;
+}
+
+.block4 {
+	color: #957637;
+	padding: 100px;
+	background-color: #F1E1B7;
+}
+
+a {
+	color: #957637;
+	border-bottom: 1px solid yellow;
+
+}
+
+
+
+}
